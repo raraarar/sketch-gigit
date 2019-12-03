@@ -1,0 +1,112 @@
+{
+  "_class": "artboard",
+  "backgroundColor": {
+    "_class": "color",
+    "alpha": 1,
+    "blue": 0,
+    "green": 0,
+    "red": 0
+  },
+  "booleanOperation": -1,
+  "clippingMaskMode": 0,
+  "do_objectID": "931D9CDF-39F9-4F21-920C-DEC1103DD6C2",
+  "exportOptions": {
+    "_class": "exportOptions",
+    "exportFormats": [
+    ],
+    "includedLayerIds": [
+    ],
+    "layerOptions": 0,
+    "shouldTrim": false
+  },
+  "frame": {
+    "_class": "rect",
+    "constrainProportions": false,
+    "height": 817,
+    "width": 880,
+    "x": 2005,
+    "y": 1400
+  },
+  "groupLayout": {
+    "_class": "MSImmutableFreeformGroupLayout"
+  },
+  "hasBackgroundColor": true,
+  "hasClickThrough": true,
+  "hasClippingMask": false,
+  "horizontalRulerData": {
+    "_class": "rulerData",
+    "base": 0,
+    "guides": [
+    ]
+  },
+  "includeBackgroundColorInExport": true,
+  "includeInCloudUpload": true,
+  "isFixedToViewport": false,
+  "isFlippedHorizontal": false,
+  "isFlippedVertical": false,
+  "isFlowHome": false,
+  "isLocked": false,
+  "isVisible": true,
+  "layerListExpandedType": 2,
+  "layers": [
+    {
+      "class": "oval",
+      "id": "56EE2F84-6310-4AA7-A4B8-4C01B7908E48"
+    },
+    {
+      "class": "oval",
+      "id": "E3E36131-981C-44B4-B905-04E1AF2B9A0E"
+    },
+    {
+      "class": "rectangle",
+      "id": "751359BC-6F0B-4453-9E64-931C7A4EE285"
+    },
+    {
+      "class": "text",
+      "id": "DF848BB1-5691-4F89-8C56-C8869B91DE93"
+    },
+    {
+      "class": "text",
+      "id": "980EA8BA-0AEE-45B4-84E1-C5E4BD889CE1"
+    },
+    {
+      "class": "text",
+      "id": "10C15A3D-E016-4BF2-876A-5E72F9E7E6E8"
+    },
+    {
+      "class": "oval",
+      "id": "584DD5A3-DFF3-4BDE-8090-7E52CE5CB943"
+    },
+    {
+      "class": "oval",
+      "id": "21627EC3-8847-41DF-91C3-0918A0BD54A7"
+    }
+  ],
+  "name": "StyleGuide",
+  "nameIsFixed": true,
+  "presetDictionary": {
+    "allowResizedMatching": 1,
+    "height": 896,
+    "name": "iPhone XR",
+    "offersLandscapeVariant": 1,
+    "width": 414
+  },
+  "resizesContent": false,
+  "resizingConstraint": 63,
+  "resizingType": 0,
+  "rotation": 0,
+  "shouldBreakMaskChain": true,
+  "style": {
+    "_class": "style",
+    "endMarkerType": 0,
+    "miterLimit": 10,
+    "startMarkerType": 0,
+    "windingRule": 1
+  },
+  "verticalRulerData": {
+    "_class": "rulerData",
+    "base": 0,
+    "guides": [
+    ]
+  }
+}

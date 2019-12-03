@@ -1,0 +1,52 @@
+{
+  "_class": "symbolInstance",
+  "booleanOperation": -1,
+  "clippingMaskMode": 0,
+  "do_objectID": "2FF857F0-6F8A-419E-91E9-D3F95D3EF8DC",
+  "exportOptions": {
+    "_class": "exportOptions",
+    "do_objectID": "BDA39C4D-E6F1-49C3-8BA2-B97D26415944",
+    "exportFormats": [
+    ],
+    "includedLayerIds": [
+    ],
+    "layerOptions": 0,
+    "shouldTrim": false
+  },
+  "frame": {
+    "_class": "rect",
+    "constrainProportions": false,
+    "do_objectID": "9155EE19-074F-4EDE-A395-A99D7E8B3C9E",
+    "height": 161,
+    "width": 430,
+    "x": 15,
+    "y": 321
+  },
+  "hasClippingMask": false,
+  "horizontalSpacing": 0,
+  "isFixedToViewport": false,
+  "isFlippedHorizontal": false,
+  "isFlippedVertical": false,
+  "isLocked": false,
+  "isVisible": true,
+  "layerListExpandedType": 0,
+  "name": "collectionViewGroceries Copy 2",
+  "nameIsFixed": false,
+  "overrideValues": [
+  ],
+  "resizingConstraint": 63,
+  "resizingType": 0,
+  "rotation": 0,
+  "scale": 1,
+  "shouldBreakMaskChain": false,
+  "style": {
+    "_class": "style",
+    "do_objectID": "D31C8807-6661-4BC8-BDA9-62DE216A1079",
+    "endMarkerType": 0,
+    "miterLimit": 10,
+    "startMarkerType": 0,
+    "windingRule": 1
+  },
+  "symbolID": "2290E55D-0478-4E59-BF86-8F2D3F5E689C",
+  "verticalSpacing": 0
+}

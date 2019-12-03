@@ -1,0 +1,52 @@
+{
+  "_class": "symbolInstance",
+  "booleanOperation": 0,
+  "clippingMaskMode": 0,
+  "do_objectID": "67D854F2-B82E-4684-BC07-D0291725B994",
+  "exportOptions": {
+    "_class": "exportOptions",
+    "do_objectID": "CCFF18F8-D905-4CD9-A958-DBD8D361BB7C",
+    "exportFormats": [
+    ],
+    "includedLayerIds": [
+    ],
+    "layerOptions": 0,
+    "shouldTrim": false
+  },
+  "frame": {
+    "_class": "rect",
+    "constrainProportions": false,
+    "do_objectID": "90CFA17F-4AE7-4692-9D33-A816D50D1344",
+    "height": 44,
+    "width": 44,
+    "x": 316.1126983722081,
+    "y": 29.11269837220809
+  },
+  "hasClippingMask": false,
+  "horizontalSpacing": 0,
+  "isFixedToViewport": false,
+  "isFlippedHorizontal": false,
+  "isFlippedVertical": false,
+  "isLocked": false,
+  "isVisible": true,
+  "layerListExpandedType": 0,
+  "name": "Button - Add",
+  "nameIsFixed": true,
+  "overrideValues": [
+  ],
+  "resizingConstraint": 45,
+  "resizingType": 0,
+  "rotation": -45,
+  "scale": 1,
+  "shouldBreakMaskChain": false,
+  "style": {
+    "_class": "style",
+    "do_objectID": "F06F14D2-A3A5-4450-AF00-607E4F614F85",
+    "endMarkerType": 0,
+    "miterLimit": 10,
+    "startMarkerType": 0,
+    "windingRule": 1
+  },
+  "symbolID": "C90D3637-4E7A-41D9-87D8-0319640092E5",
+  "verticalSpacing": 0
+}

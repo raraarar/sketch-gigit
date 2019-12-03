@@ -1,0 +1,60 @@
+{
+  "_class": "group",
+  "booleanOperation": -1,
+  "clippingMaskMode": 0,
+  "do_objectID": "AF311167-1CA4-466D-A4ED-2BE9E2849AF6",
+  "exportOptions": {
+    "_class": "exportOptions",
+    "do_objectID": "4A58C9CD-AFAE-4B1A-B89A-2C024F532F8A",
+    "exportFormats": [
+    ],
+    "includedLayerIds": [
+    ],
+    "layerOptions": 0,
+    "shouldTrim": false
+  },
+  "frame": {
+    "_class": "rect",
+    "constrainProportions": true,
+    "do_objectID": "665807C5-BA32-4844-A740-7B5D560B3738",
+    "height": 24,
+    "width": 25,
+    "x": 0,
+    "y": 0
+  },
+  "groupLayout": {
+    "_class": "MSImmutableFreeformGroupLayout"
+  },
+  "hasClickThrough": false,
+  "hasClippingMask": false,
+  "isFixedToViewport": false,
+  "isFlippedHorizontal": false,
+  "isFlippedVertical": false,
+  "isLocked": false,
+  "isVisible": true,
+  "layerListExpandedType": 1,
+  "layers": [
+    {
+      "class": "shapePath",
+      "id": "44C8B610-C4DC-41CA-B640-2828E87D4F4B"
+    },
+    {
+      "class": "shapeGroup",
+      "id": "826B1782-B604-4343-BCBE-0249F6B10E3E"
+    }
+  ],
+  "name": "commercial-shopping-cart-symbol copy",
+  "nameIsFixed": false,
+  "resizingConstraint": 63,
+  "resizingType": 0,
+  "rotation": 0,
+  "shouldBreakMaskChain": false,
+  "style": {
+    "_class": "style",
+    "do_objectID": "643DCEE3-9B82-4782-87C5-CC4717E0077F",
+    "endMarkerType": 0,
+    "miterLimit": 10,
+    "startMarkerType": 0,
+    "windingRule": 1
+  }
+}

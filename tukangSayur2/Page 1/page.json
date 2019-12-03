@@ -1,0 +1,122 @@
+{
+  "_class": "page",
+  "booleanOperation": -1,
+  "clippingMaskMode": 0,
+  "do_objectID": "055311FF-B698-4D36-9A54-EBD0F856C6F9",
+  "exportOptions": {
+    "_class": "exportOptions",
+    "exportFormats": [
+    ],
+    "includedLayerIds": [
+    ],
+    "layerOptions": 0,
+    "shouldTrim": false
+  },
+  "frame": {
+    "_class": "rect",
+    "constrainProportions": false,
+    "height": 0,
+    "width": 0,
+    "x": 0,
+    "y": 0
+  },
+  "groupLayout": {
+    "_class": "MSImmutableFreeformGroupLayout"
+  },
+  "hasClickThrough": true,
+  "hasClippingMask": false,
+  "horizontalRulerData": {
+    "_class": "rulerData",
+    "base": 0,
+    "guides": [
+    ]
+  },
+  "includeInCloudUpload": true,
+  "isFixedToViewport": false,
+  "isFlippedHorizontal": false,
+  "isFlippedVertical": false,
+  "isLocked": false,
+  "isVisible": true,
+  "layerListExpandedType": 0,
+  "layers": [
+    {
+      "class": "artboard",
+      "id": "D30D8386-A535-41A9-8E19-D835CA99401D"
+    },
+    {
+      "class": "artboard",
+      "id": "8AFE926C-0D3F-45AA-B3C0-567CDCF70EAB"
+    },
+    {
+      "class": "symbolInstance",
+      "id": "D8FF1693-C5C2-45DC-B274-02A5144DA844"
+    },
+    {
+      "class": "symbolInstance",
+      "id": "A60C3756-3F3F-47C2-B02F-52B267B94CD7"
+    },
+    {
+      "class": "symbolInstance",
+      "id": "148B5EB7-92AA-4500-B6B7-076670696CEE"
+    },
+    {
+      "class": "symbolInstance",
+      "id": "FF51CB5D-3991-4B61-A029-F191DC49A65C"
+    },
+    {
+      "class": "symbolInstance",
+      "id": "E46F4FA3-CD38-4148-AEB7-1E1BBF734A30"
+    },
+    {
+      "class": "symbolInstance",
+      "id": "C13E02EC-1C74-4B16-8E80-43EDF4564D46"
+    },
+    {
+      "class": "symbolInstance",
+      "id": "852DED5E-8AB6-4511-ADC7-C0EA87370EB5"
+    },
+    {
+      "class": "symbolInstance",
+      "id": "FA778896-2835-42ED-9BA5-EC330C9EF6AB"
+    },
+    {
+      "class": "symbolInstance",
+      "id": "86DC7591-CF82-411C-99FF-55D53D9AB5EE"
+    },
+    {
+      "class": "rectangle",
+      "id": "23E13692-CBBB-479B-87A2-D560835BE7D6"
+    },
+    {
+      "class": "symbolInstance",
+      "id": "1750D3B1-0E9A-4002-8BAF-B144343DC5D5"
+    },
+    {
+      "class": "artboard",
+      "id": "931D9CDF-39F9-4F21-920C-DEC1103DD6C2"
+    },
+    {
+      "class": "group",
+      "id": "4948D0BB-ACD0-45DD-A2EB-018BD49417CE"
+    }
+  ],
+  "name": "Page 1",
+  "nameIsFixed": false,
+  "resizingConstraint": 63,
+  "resizingType": 0,
+  "rotation": 0,
+  "shouldBreakMaskChain": false,
+  "style": {
+    "_class": "style",
+    "endMarkerType": 0,
+    "miterLimit": 10,
+    "startMarkerType": 0,
+    "windingRule": 1
+  },
+  "verticalRulerData": {
+    "_class": "rulerData",
+    "base": 0,
+    "guides": [
+    ]
+  }
+}
